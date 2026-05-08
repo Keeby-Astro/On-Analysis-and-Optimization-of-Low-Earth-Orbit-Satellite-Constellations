@@ -1,2 +1,0 @@
-n_satellites,equal_median,equal_hdi95_low,equal_hdi95_high,ess_weighted_median,ess_weighted_q025,ess_weighted_q975,precision_weighted_mean,precision_weighted_se
-6,30.199735341289465,21.619268399836315,38.36317475621519,30.901782366169385,21.62844572424124,38.3726445549203,32.42872129280688,0.015364183342001885

@@ -1,0 +1,5 @@
+source_folder,inclination_group,inclination_sort,cluster_count,global_cluster_start,global_cluster_end,record_count,noise_count,noise_fraction
+starlink_labels_53.0,53.0,53,29,1,29,976,186,0.19057377
+starlink_labels_53.2,53.2,53.2,38,30,67,1450,228,0.15724138
+starlink_labels_70,70,70,21,68,88,375,0,0
+starlink_labels_97,97,97,5,89,93,223,0,0

@@ -1,0 +1,27 @@
+{
+  "source_rows": 9073179,
+  "source_satellites": 3024,
+  "time_window": {
+    "start": "2019-11-14 14:00:01.000224",
+    "end": "2025-12-31 22:22:20.946432"
+  },
+  "filters_applied": [
+    "numeric_coercion_and_physical_bounds",
+    "max_sma_km<=7000.0",
+    "drop_invalid_timestamp"
+  ],
+  "phase_variable": "true_anomaly",
+  "phase_semantics": "TLE-derived Kepler proxy from mean anomaly",
+  "shell_profile": "gen1",
+  "state_model": "sgp4_preferred",
+  "resampling_info": {
+    "spectral_mode": "uniform_fft",
+    "wavelet_method": "wwz",
+    "wavelet_irregular_policy": "resample",
+    "spectral_cadence_seconds": null,
+    "fft_interpolation": "linear",
+    "crosscorr_interpolation": "linear",
+    "crosscorr_normalization": "legacy"
+  },
+  "code_version_hash": null
+}
